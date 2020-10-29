@@ -1,0 +1,10 @@
+:root {
+  --header-background-color: #1F1F1F;
+  --header-text-color: #CECECE;
+
+  --app-background: #121212;
+
+  --softkey-background-color: #000000;
+  --softkey-border-color: #646464;
+  --softkey-text-color: #f0f0f0;
+}
