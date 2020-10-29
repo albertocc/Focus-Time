@@ -1,0 +1,25 @@
+{
+  "version": "0.7.0",
+  "name": "Focus time!",
+  "description": "Simple pomodoro timer",
+  "type": "web",
+  "launch_path": "/index.html",
+  "theme_color": "#00aef9",
+  "icons": {
+    "56": "/assets/icons/focus-time_56.png",
+    "112": "/assets/icons/focus-time_112.png",
+    "128": "/assets/icons/focus-time_128.png"
+  },
+  "developer": {
+    "name": "albertocc",
+    "url": "https://alberto.cc"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Focus time!",
+      "subtitle": "Simple pomodoro timer",
+      "description": "Simple pomodoro timer"
+    }
+  },
+  "default_locale": "en-US"
+}
